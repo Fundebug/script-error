@@ -1,2 +1,1 @@
-fdsafsafdsfd
-//throw new Error('reyn');
+throw new Error("Hello Fundebug");
